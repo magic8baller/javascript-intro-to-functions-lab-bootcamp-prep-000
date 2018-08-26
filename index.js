@@ -16,14 +16,14 @@ function logShout(string) {
   return string.toUpperCase();
 }
 
-logShout('HeLLo');
+console.log(logShout('HeLLo'));
 
 
 function logWhisper(string) {
   return string.toLowerCase();
 }
 
-logWhisper('hEllO');
+console.log(Whisper('hEllO'));
 
 
 function sayHiToGrandma(string) {
